@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=035400&text=Hey%20there!%20I'm%20Rodrigo&desc=Software%20Engineer%20||%20AI%20Engineer&fontColor=FFFFFF&animation=fadeIn&descAlignY=65&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=035400&text=Hey%20there!%20I'm%20Rodrigo&desc=Software%20Engineer%20||%20AI%20Engineer&fontColor=FFFFFF&animation=fadeIn&descAlignY=65&fontSize=60)
 
 I'm a Software Engineer focused on enhancing my skill.
 

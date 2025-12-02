@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=035400&text=Hey%20there!%20%20I'm%20Rodrigo&fontColor=ffff&textBg=false&animation=fadeIn&desc=Tech%20Entusiast%20%20|%20Developer&descAlign=50&descAlignY=65&reversal=false&fontSize=60)
 
-I'm a Computer Science and Engineering student focused on enhancing my skill in computer science.
+I'm a Software Engineer focused on enhancing my skill.
 
 
 ## Main Skills
